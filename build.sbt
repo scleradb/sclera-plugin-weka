@@ -4,6 +4,8 @@ description := "Add-on that enables Sclera to perform machine learning using the
 
 version := "4.0-SNAPSHOT"
 
+homepage := Some(url("https://github.com/scleradb/sclera-plugin-weka"))
+
 organization := "com.scleradb"
 
 organizationName := "Sclera, Inc."
