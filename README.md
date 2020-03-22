@@ -6,7 +6,7 @@ With this component, a classifier or a clusterer can be trained in just a single
 
 The component uses the [Weka](https://www.cs.waikato.ac.nz/ml/weka) library, which is downloaded automatically as a part of the installation.
 
-Please refer to the [ScleraSQL Reference](https://www.scleradb.com/doc/ref/sqlextml#sclera-weka) document for details on using the component's features in a SQL query.
+Please refer to the [ScleraSQL Reference](https://scleradb.com/docs/sclerasql/sqlextml/) document for details on using the component's features in a SQL query.
 
 **Important**
 The [Weka](https://www.cs.waikato.ac.nz/ml/weka) library is licensed under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.html). For [compatibility](https://www.gnu.org/licenses/gpl-faq.html#AllCompatibility), this component is licensed under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.html) as well. Please use this component in accordance with this license. To get a commercial license for Weka, please refer to the [Weka FAQ](https://waikato.github.io/weka-wiki/faqs/commercial_applications/).
