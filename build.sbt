@@ -11,7 +11,7 @@ scmInfo := Some(
     )
 )
 
-version := "4.0-SNAPSHOT"
+version := "4.0"
 
 startYear := Some(2012)
 
@@ -23,8 +23,8 @@ resolvers += "Sonatype OSS Snapshots" at "https://oss.sonatype.org/content/repos
 
 libraryDependencies ++= Seq(
     "nz.ac.waikato.cms.weka" % "weka-stable" % "3.8.4",
-    "com.scleradb" %% "sclera-config" % "4.0-SNAPSHOT" % "provided",
-    "com.scleradb" %% "sclera-core" % "4.0-SNAPSHOT" % "provided"
+    "com.scleradb" %% "sclera-config" % "4.0" % "provided",
+    "com.scleradb" %% "sclera-core" % "4.0" % "provided"
 )
 
 scalacOptions ++= Seq(
