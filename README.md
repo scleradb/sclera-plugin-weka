@@ -1,5 +1,8 @@
 # Sclera - Weka Connector
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.scleradb/sclera-plugin-weka_2.13/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.scleradb/sclera-plugin-weka_2.13)
+[![scaladoc](https://javadoc.io/badge2/com.scleradb/sclera-plugin-weka_2.13/scaladoc.svg)](https://javadoc.io/doc/com.scleradb/sclera-plugin-weka_2.13)
+
 Enables Sclera to perform [classification](https://en.wikipedia.org/wiki/Cluster_analysis) and [clustering](https://en.wikipedia.org/wiki/Cluster_analysis) on data from within SQL.
 
 With this component, a classifier or a clusterer can be trained in just a single SQL command. Scoring new data using the classifier, or segmenting data using the clusterer gets done using a simple SQL operator (Sclera's extension) that seamlessly embeds within your SQL query.
